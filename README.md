@@ -1,6 +1,6 @@
  <img align="right" src="https://raw.githubusercontent.com/anand0249/anand0249/main/Images/Rikka-Chuunibyou-img.png" width="250"/>
   
-## **Hi there 👋**
+### **👋**
 <p align="center">
 I'm Anand.
 <br>
