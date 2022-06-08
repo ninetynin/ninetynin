@@ -1,3 +1,4 @@
 Hi there 👋
 
-I am Anand , currently pursuing my Btech in computer science from Manipal Institute of Technology. A tech enthusiast. I am a ?? (idk Im still exploring.. I will add this when I build my dream porjects and it really seems to work out). I am always open to collaborating on projects and innovative/disruptive ideas.
+Im currently learning flutter & C Lang 
+Feel free to text me if u r into these no matter what it is as even if i dk what it is i will do reasearch and wont stop until i find the sol 🙂
