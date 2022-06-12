@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi 👋</h1>
-<h4 align="left">I'm Anand, a student from India 🇮🇳 </h4>
+<h4 align="left">I'm a student from India 🇮🇳 </h4>
 
 
 Im currently learning flutter & C Lang 
