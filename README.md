@@ -1,5 +1,5 @@
 <p align ="center">
-<samp><b>Hey there..👋</b><samp>
+<b>Hey there..👋</b>
 <br><br>
 <samp>I'm a computer science undergraduate student from India.</samp>
 <br><br>
