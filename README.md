@@ -11,7 +11,7 @@ Feel free to text me if u r into these no matter what it is as even if i dk what
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninetynin" alt="ninetynin" /> </p> -->
 
 <p align ="center">
-Hey there..👋
+<b>Hey there..👋</b>
 <br>
 <br>
 I'm a computer science undergraduate student from India.
