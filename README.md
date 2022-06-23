@@ -1,7 +1,7 @@
 <h1 align="left">Hello there..👋</h1>
 <h4 align="left">I'm a currently a computer science undergraduate student from India.</h4>
 <br>
-<img src="images/1withbg.webp/" width="500" />
+<img src="images/1withbg.webp/" />
 <br>
 <br>
 Im currently learning flutter & C Lang 
