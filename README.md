@@ -1,9 +1,10 @@
 <p align ="center">
 <b>Hey there..👋</b>
+<br>
+<br>
+<img src="images/1withbg.webp/" />
 <br><br>
 <samp>I'm a computer science undergraduate student from India.</samp>
-<br><br>
-<img src="images/1withbg.webp/" />
 <br><br>
 <samp>I'm passionate about solving every issue I faced by creating whatever I can / like trying to make day to day life easier by building applications or programs</samp>
 <br><br>
